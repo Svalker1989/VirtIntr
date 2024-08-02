@@ -141,9 +141,9 @@ services:
 `docker-compose up -d --remove-orphans`  
 ![9](https://github.com/Svalker1989/VirtIntr/blob/master/05-virt-03-docker-intro/9.png)  
 Удаляем контейнеры ОДНОЙ командой:  
-`docker-compose rm -f`
-В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод, файл compose.yaml , скриншот portainer c задеплоенным компоузом.
-[compose.yaml](https://github.com/Svalker1989/VirtIntr/blob/master/05-virt-03-docker-intro/compose.yaml)  
+`docker-compose rm -f`  
+В качестве ответа приложите скриншоты консоли, где видно все введенные команды и их вывод, файл compose.yaml , скриншот portainer c задеплоенным компоузом.  
+[compose.yaml](https://github.com/Svalker1989/VirtIntr/blob/master/05-virt-03-docker-intro/compose.yaml)    
 ---
 
 ### Правила приема
