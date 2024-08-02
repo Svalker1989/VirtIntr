@@ -64,7 +64,7 @@ push метод более надежный, т.к. мы можем центра
 ```
 docker ps,
 ```  
-![](https://github.com/Svalker1989/VirtIntr/blob/master/05-virt-02-iaac/3.png)  
+![](https://github.com/Svalker1989/VirtIntr/blob/master/05-virt-02-iaac/3.PNG)  
 Vagrantfile из лекции и код ansible находятся в [папке](https://github.com/netology-code/virt-homeworks/tree/virt-11/05-virt-02-iaac/src).
 
 Примечание. Если Vagrant выдаёт ошибку:
