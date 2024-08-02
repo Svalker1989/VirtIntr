@@ -113,7 +113,7 @@ services:
 И выполните команду "docker compose up -d". Какой из файлов был запущен и почему? (подсказка: https://docs.docker.com/compose/compose-application-model/#the-compose-file )  
 Ответ:  
 По умолчанию используется имя компоуз файла compose.yaml.  
-2. Отредактируйте файл compose.yaml так, чтобы были запущенны оба файла. (подсказка: https://docs.docker.com/compose/compose-file/14-include/)
+2. Отредактируйте файл compose.yaml так, чтобы были запущенны оба файла. (подсказка: https://docs.docker.com/compose/compose-file/14-include/)  
 [compose.yaml](https://github.com/Svalker1989/VirtIntr/blob/master/05-virt-03-docker-intro/compose.yaml)  
 3. Выполните в консоли вашей хостовой ОС необходимые команды чтобы залить образ custom-nginx как custom-nginx:latest в запущенное вами, локальное registry. Дополнительная документация: https://distribution.github.io/distribution/about/deploying/  
 Поднять локальное реджистри в контейнере:  
