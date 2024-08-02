@@ -51,7 +51,8 @@ push метод более надежный, т.к. мы можем центра
 - [Vagrant](https://github.com/netology-code/devops-materials), рекомендуем версию 2.3.4(в более старших версиях могут возникать проблемы интеграции с ansible)
 - [Terraform](https://github.com/netology-code/devops-materials/blob/master/README.md)  версии 1.5.Х (1.6.х может вызывать проблемы с яндекс-облаком),
 - Ansible.  
-![1]()  
+![](https://github.com/Svalker1989/VirtIntr/blob/master/05-virt-02-iaac/1.png)
+![](https://github.com/Svalker1989/VirtIntr/blob/master/05-virt-02-iaac/2.png)  
 *Приложите вывод команд установленных версий каждой из программ, оформленный в Markdown.*
 
 ## Задача 4 
@@ -63,7 +64,7 @@ push метод более надежный, т.к. мы можем центра
 ```
 docker ps,
 ```  
-![3]()  
+![](https://github.com/Svalker1989/VirtIntr/blob/master/05-virt-02-iaac/3.PNG)  
 Vagrantfile из лекции и код ansible находятся в [папке](https://github.com/netology-code/virt-homeworks/tree/virt-11/05-virt-02-iaac/src).
 
 Примечание. Если Vagrant выдаёт ошибку:
